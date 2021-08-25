@@ -1,0 +1,6 @@
+name: Lawyer
+version: '${project.version}'
+main: com.pinecarp.lawyer.Main
+api-version: 1.17
+authors: [ pinecarp ]
+description: A Minecraft Plugin
