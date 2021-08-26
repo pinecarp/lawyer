@@ -8,3 +8,9 @@ commands:
   lawyer:
     description: Give a Pickaxe
     command: /<command>
+  hunger:
+    description: Change hunger level
+    command: /<command>
+  help:
+    description: Help command
+    command: /<command>
